@@ -1,0 +1,11 @@
+# basic options
+title: IS Blog    
+author: isvirido  
+email: isvirido@gmail.com 
+description: A lovely blog
+twitter_username: isvirido
+github_username:  isvirido
+
+# Build settings
+markdown: kramdown
+theme: minima
